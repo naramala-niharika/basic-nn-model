@@ -45,7 +45,7 @@ Plot the performance plot
 ### STEP 7:
 
 Evaluate the model with the testing data.
-``
+```
 ### PROGRAM:
 
 ## Importing modules
@@ -104,7 +104,7 @@ X_n1 = [[30]]
 X_n1_1 = Scaler.transform(X_n1)
 ai_brain.predict(X_n1_1)
 
-
+```
 
 ## Dataset Information:
 
