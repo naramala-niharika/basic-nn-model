@@ -45,9 +45,9 @@ Plot the performance plot
 ### STEP 7:
 
 Evaluate the model with the testing data.
-```
-### PROGRAM:
 
+### PROGRAM:
+```
 ## Importing modules
 
 import pandas as pd
